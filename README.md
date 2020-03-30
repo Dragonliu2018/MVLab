@@ -8,3 +8,6 @@ Machine Vision Lab
 
 **论文**
 1. 窗口感知的高斯引导滤波
+
+
+* 注：废弃，转向gitbook：[我跳](nuaa.ml)
